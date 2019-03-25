@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "234175045512",
+    "firebase_url": "https://chat-44e34.firebaseio.com",
+    "project_id": "chat-44e34",
+    "storage_bucket": "chat-44e34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234175045512:android:563598cb6c3ec152",
+        "android_client_info": {
+          "package_name": "com.example.dell.chatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234175045512-u6o7e32iev8efqdsu0jnv53ggdap8aha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.chatting",
+            "certificate_hash": "aa5b56a864a18851a5ace2399624e464d0f6bafc"
+          }
+        },
+        {
+          "client_id": "234175045512-8v43vmp5gnfiu9m8jaujl49q8g7r8ug7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEjqbjUU7Vp6DmM2o6qDI_86KsHCuVfgY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234175045512-8v43vmp5gnfiu9m8jaujl49q8g7r8ug7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
